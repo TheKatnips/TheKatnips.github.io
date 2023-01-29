@@ -34,14 +34,13 @@ nav {
     border-radius: 10px;
   }
 
-.button:hover {
-    background-color: rgb(110, 172, 48);
-}
-
 .button.active {
     background-color: rgb(1, 75, 1);
 }
 
+.button:hover {
+    background-color: rgb(110, 172, 48);
+}
 img {
     border-radius: 10px; /*arrondir les bordures*/
     justify-content: center;
