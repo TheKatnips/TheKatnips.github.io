@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(29, 27, 27);
+    color: rgb(218, 255, 240);
+    text-align: center;
+}
+
+header {
+    background-color: rgb(57, 108, 6);
+    color: black;
+    border-radius: 10px; /*arrondir les bordures*/
+    
+    
+    justify-content: center;
+    align-items: center;
+    margin: 10% 20%;
+    padding: 10px;
+}
+
+img {
+    border-radius: 10px; /*arrondir les bordures*/
+    justify-content: center;
+    align-items: center;
+}
