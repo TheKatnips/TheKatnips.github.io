@@ -1,3 +1,3 @@
 ## Visualisez mon CV via le site internet :
 
-TheKatnips.github.io
+[Lola Bricout](https://TheKatnips.github.io)
