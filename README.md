@@ -1,3 +1,3 @@
-## Visualisez mon CV via le site internet :
+## Bienvenue ! Visualisez mon CV via le site internet :
 
 [Lola Bricout](https://TheKatnips.github.io)
